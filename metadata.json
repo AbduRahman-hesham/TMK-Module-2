@@ -1,0 +1,8 @@
+{
+  "name": "Hero City  - مدينة البطل - Module",
+  "description": "A bright, cute low-poly 3D kids' city game built with Vanilla JavaScript and Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
